@@ -1,0 +1,1 @@
+(this.webpackJsonpfilesdna=this.webpackJsonpfilesdna||[]).push([[172],{1683:function(t,n,e){},1844:function(t,n,e){"use strict";e.r(n);var a=e(0),c=e.n(a);e(1683);n.default=function(t){var n=t.children,e=t.className,a=t.handleClick,i=t.title;return c.a.createElement("button",{type:"button",onClick:a,title:i,className:"editor-btn".concat(e||"")},n)}}}]);
